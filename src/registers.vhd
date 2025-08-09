@@ -1,4 +1,4 @@
--- vhdl-linter-disable type-resolved
+-- vhdl-linter-disable type-resolved.
 
 -- Entity for the registers as part of the minimal RV32I subset of RISC-V
 -- Contains 32 resgisters each of 32 bits
